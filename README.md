@@ -1,1 +1,1 @@
-# tv_scripts_generation_pytorch
+# TV Scripts generation with Deep Learning using PyTorch
